@@ -1,0 +1,11 @@
+ollama
+chromadb
+streamlit 
+pdfplumber 
+langchain
+langchain-core
+langchain-community
+langchain_text_splitters
+langchain_groq
+unstructured
+unstructured[all-docs]
