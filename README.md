@@ -111,11 +111,9 @@ streamlit run app.py
 
 ---
 
-## Placeholder for Images
+### UI
+![Screenshot from 2024-11-29 16-34-50](https://github.com/user-attachments/assets/a577d6ba-63c3-4b0c-a8b2-376ecd108dda)
 
-Add screenshots of the application or a system architecture diagram here.
-
-Example:
 
 
 ---
