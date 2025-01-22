@@ -113,6 +113,8 @@ streamlit run app.py
 
 ### UI
 ![Screenshot from 2024-11-29 16-34-50](https://github.com/user-attachments/assets/a577d6ba-63c3-4b0c-a8b2-376ecd108dda)
+![Screenshot from 2024-11-29 16-09-14](https://github.com/user-attachments/assets/1b8cb929-a9cd-4928-8ce2-32e229aef31b)
+
 
 
 
